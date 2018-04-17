@@ -1,0 +1,8 @@
+Weather
+What is the weather
+What is the weather for {location}
+What is the weather in {location}
+What's the weather
+What's the weather for {location}
+What's the weather in {location}
+How is it in {location}
